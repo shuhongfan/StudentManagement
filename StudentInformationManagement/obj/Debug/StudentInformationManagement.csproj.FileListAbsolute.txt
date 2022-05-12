@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\bin\StudentInformationManagement.dll.config
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\bin\StudentInformationManagement.dll
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\bin\StudentInformationManagement.pdb
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.dll
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.pdb
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\ASP_Demo01\StudentManagement\StudentInformationManagement\bin\StudentInformationManagement.dll.config
+C:\Users\shuho\Documents\Code\ASP_Demo01\StudentManagement\StudentInformationManagement\bin\StudentInformationManagement.dll
+C:\Users\shuho\Documents\Code\ASP_Demo01\StudentManagement\StudentInformationManagement\bin\StudentInformationManagement.pdb
+C:\Users\shuho\Documents\Code\ASP_Demo01\StudentManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.csproj.AssemblyReference.cache
+C:\Users\shuho\Documents\Code\ASP_Demo01\StudentManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\ASP_Demo01\StudentManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.dll
+C:\Users\shuho\Documents\Code\ASP_Demo01\StudentManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.pdb
