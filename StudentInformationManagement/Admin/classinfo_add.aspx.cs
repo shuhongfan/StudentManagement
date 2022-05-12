@@ -38,7 +38,7 @@ namespace StudentInformationManagement
                     string sqlStr2 = "Insert into classinfo(classid,classname,classmajor,classcount) Values ('" + text1 + "','" + text2 + "','" + text3 + "','" + text4 + "')";
                     Common.ExecuteSql(sqlStr2);
                     Response.Write("<script>alert('班级信息添加成功！');</script>");
-                    Response.Redirect("classinfo_select.aspx");
+                    Response.Redirect("~/Admin/classinfo_select.aspx");
                 }
             }
 

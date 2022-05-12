@@ -50,6 +50,7 @@ namespace StudentInformationManagement.Admin
                     string sqlStr2 = "Insert into stuinfo(stuid,stuname,stugender,stuclass,stutelephone,stuemail,stuQQ) Values ('" + text1 + "','" + text2 + "','" + text3 + "','" + text4 + "','" + text5 + "','" + text6 + "','" + text7 + "')";
                     Common.ExecuteSql(sqlStr2);
                     Response.Write("<script>alert('学生信息添加成功！');</script>");
+                    Response.Redirect("~/Admin/stuinfo_select.aspx");
                 }
             }
 
